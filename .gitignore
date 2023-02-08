@@ -11,6 +11,9 @@
 # production
 /build
 
+# version of the node
+.nvmrc
+
 # misc
 .DS_Store
 .env.local
